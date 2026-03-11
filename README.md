@@ -25,12 +25,8 @@ Sou um desenvolvedor que unindo a precisão das **Ciências Contábeis** com a i
 
 ### 📊 Estatísticas e Atividade
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Italoliver&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Italoliver&repo=github-readme-stats&cache_seconds=86400&theme=transparent" />
-</p>
-
-
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=Italoliver&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)
+![GitHub Status](https://github-readme-stats.vercel.app/api?Italoliver={Italoliver}&theme=blue-green)
 
 ---
 
