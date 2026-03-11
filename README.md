@@ -1,8 +1,10 @@
-# Olá, eu sou o Ítalo! 👋✨
+# Olá, eu sou o Ítalo! 👋🤓💻
 
 ### 🚀 Sobre Mim
 Eu sou um desenvolvedor apaixonado por tecnologia e inovação! Estou sempre em busca de novos desafios e adoro transformar ideias em código. 💻💡 
 
+- 🎓 Estudante de **Ciências da Computação!** 🧑🏻‍💻
+- 🎓 Sou formado em **Ciências Contábeis!** ☕😶
 - 🔭 Atualmente estou trabalhando em: **Power BI** 🛠️
 - 🌱 Estou aprendendo: **IA Generativa** 📚
 - 💬 Pergunte-me sobre: **Contabilidade Pública** 🗣️
