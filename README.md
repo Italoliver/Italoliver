@@ -22,8 +22,8 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação! Estou sempre em 
 
 ### 📊 Estatísticas do GitHub
 
-![Status do GitHub de Ítalo](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical) 📈
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical) 🏆
+![Status do GitHub de Ítalo](https://github-readme-stats.vercel.app/api?username=Italoliver&show_icons=true&theme=radical) 📈
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Italoliver&layout=compact&theme=radical) 🏆
 
 ---
 
