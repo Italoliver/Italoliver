@@ -1,7 +1,8 @@
-# Ítalo Oliveira! 👋💻
+# Ítalo Oliveira! ☕💻
 
-### 🚀 Do Balanço Patrimonial à Lógica de Programação: Transformando Dados em Soluções. 📊💻!
-Sou um desenvolvedor que unindo a precisão das **Ciências Contábeis** com a inovação da **Ciência da Computação**. Apaixonado por transformar dados em decisões e ideias em aplicações reais! 💡🔥
+### 🚀 Do Balanço Patrimonial à Lógica de Programação: Transformando Dados em Soluções. 📊🖥️!
+Desenvolvedor que uni a precisão das **Ciências Contábeis** com a inovação da **Ciência da Computação**! 📠📈🚀
+Apaixonado por transformar dados em decisões e ideias em aplicações reais! 💡🔥
 
 ---
 
