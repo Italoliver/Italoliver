@@ -26,9 +26,10 @@ Apaixonado por transformar dados em decisões e ideias em aplicações reais! �
 ---
 
 ### 📊 Estatísticas e Atividade
-
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=Italoliver&theme=blue-green)
-![GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Italoliver&theme=blue-green)
+<div>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Italoliver&theme=blue-green"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italoliver&theme=blue-green"/>
+</div>
 
 ---
 
